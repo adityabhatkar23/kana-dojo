@@ -106,7 +106,7 @@
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 11,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -416,7 +416,7 @@
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 42,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -506,7 +506,7 @@
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 51,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -956,7 +956,7 @@
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 96,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
