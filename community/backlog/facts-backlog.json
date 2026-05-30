@@ -866,7 +866,7 @@
   {
     "id": 145,
     "fact": "The concept 'taisetsu' (大切) means precious or important - often said about relationships and feelings, not objects.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -950,7 +950,7 @@
   {
     "id": 159,
     "fact": "There's a Japanese practice 'natsukashii' (懐かしい) experience parties - rooms designed to trigger nostalgia from specific eras.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "id": 209,
     "fact": "The Japanese phrase 'ittekimasu' (行ってきます) is said when leaving home, meaning 'I'll go and come back'.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

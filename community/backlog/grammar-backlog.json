@@ -20,7 +20,7 @@
   {
     "id": 4,
     "text": "\"〜てもいいです\" means \"it's okay to\" and grants permission.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -548,7 +548,7 @@
   {
     "id": 92,
     "text": "\"〜たことがある\" expresses past experience, like \"have done\" something before. (practice variation 7)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -698,7 +698,7 @@
   {
     "id": 117,
     "text": "\"〜たり〜たり\" lists representative actions, like \"do things like A and B\". (practice variation 32)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -728,7 +728,7 @@
   {
     "id": 122,
     "text": "\"〜ことになる\" indicates something was decided (by others or circumstances). (practice variation 37)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
